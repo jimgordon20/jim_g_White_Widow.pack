@@ -19,7 +19,9 @@ V.2
 
 
 
-i have left v1 in pack more dark but i like it 
+i have left v1 in pack more dark but i like it.
+
+
 ![6](https://user-images.githubusercontent.com/110393030/231310836-6bcba5fc-5c6b-4a48-abd3-a62f52de7d4f.jpeg)
 ![5](https://user-images.githubusercontent.com/110393030/231310840-76b756d4-cb21-4654-b10b-14a5ad86626f.jpeg)
 ![4](https://user-images.githubusercontent.com/110393030/231310841-d5138ca7-ca2d-4cbc-9d29-ff5a40f3dd8f.jpeg)
