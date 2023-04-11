@@ -9,4 +9,4 @@ https://github.com/TayMcKenzieNZ
 info.
 This clothing pack was tested on gamebuild mpchristmas3 aka 2802 with the understanding that there are about 14 additional free .ymt slots to be used
 
-If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the YMT limits 3 on/for future DLCs.
+If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the YMT limits https://tinyurl.com/499ad2zn 3 on/for future DLCs.
