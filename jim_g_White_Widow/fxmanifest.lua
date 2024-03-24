@@ -12,7 +12,8 @@
 -- *|_|    _/ |  \__,_| |___/  \__|    \__,_|  \___/    |___/  \__|  \__,_| |_|   |_|  *
 -- *      |__/                                                                         *
 -- *************************************************************************************
--- Generated with DurtyClothTool
+-- [ Jim G discord ]
+-- https://discord.gg/6QUTHVA3VP
 
 fx_version 'cerulean'
 game { 'gta5' }
